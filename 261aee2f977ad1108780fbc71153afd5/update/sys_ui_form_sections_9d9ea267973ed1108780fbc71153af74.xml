@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9d9ea267973ed1108780fbc71153af74" sys_domain="global" table="x_930420_wish_list_wish_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-02 18:28:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d59ea267973ed1108780fbc71153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_930420_wish_list_wish_item" name="x_930420_wish_list_wish_item" sys_domain="global" view="Default view">9d9ea267973ed1108780fbc71153af74</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_930420_wish_list_wish_item" sys_domain="global" view="Default view">594de6e3973ed1108780fbc71153af7c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-02 18:28:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-02 18:28:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>559ea267973ed1108780fbc71153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_930420_wish_list_wish_item" name="x_930420_wish_list_wish_item" sys_domain="global" view="Default view">9d9ea267973ed1108780fbc71153af74</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_930420_wish_list_wish_item" sys_domain="global" view="Default view">dd9ea267973ed1108780fbc71153af73</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-02 18:28:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_930420_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-02 18:28:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d9ea267973ed1108780fbc71153af74</sys_id>
+            <sys_name>x_930420_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_930420_wish_list">261aee2f977ad1108780fbc71153afd5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">261aee2f977ad1108780fbc71153afd5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9d9ea267973ed1108780fbc71153af74</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
